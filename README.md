@@ -15,13 +15,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm Mansour.
+I'm Mansour KA.
 
-Brief intro about me:
+Here is are same word about me :
 
-I'm a cloud Devops Engineer since 2 years.
+I'm a cloud Devops Engineer.
+I'm passionate about automation, coding, problem-solving and learning new skills and implement them and aslo share them like this below repositories.
+I like to share and contribute on projects around different technologies  : Ansible, Terraform, Docker, CI/CD, Kubernetes, Bash Scripting, AWS/Cloud Services etc..
 
-I'm passionate about automation, coding, problem-solving and learning new skills and implement them to solve different challenges.
-Below are the repositories that I used throughout my SysOps/DevOps journey while learning different technologies Ansible, Jenkins, AWS/Cloud Services, Kubernetes, Docker, Terraform, Bash Scripting.
-
-Repositor
+Enjoy sharing 😄!

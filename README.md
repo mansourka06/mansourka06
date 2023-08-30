@@ -19,8 +19,12 @@ I'm Mansour KA.
 
 Here is are same word about me :
 
-I'm a cloud Devops Engineer,
-and passionate about automation, coding, problem-solving and learning new skills and implement them and aslo share them like this below repositories.
-I like to share and contribute on projects around different technologies  : Ansible, Terraform, Docker, CI/CD, Kubernetes, Bash Scripting, AWS/Cloud Services etc..
+I'm a cloud Devops Engineer and passionate about automation, continuous integration, and deployments, 
+problem-solving and learning new skills and implement them and also share them like this below repositories.
+
+With extensive Hands-on experience in DevOps & Cloud Computing, I am proficient in various tools 
+and technologies related to infrastructure automation, containerization, CI/CD, and cloud platforms.
+
+I like to share and contribute on projects around different technologies like: Ansible, Terraform, Docker, CI/CD, Kubernetes, Bash Scripting, Cloud Services ..
 
 Enjoy sharing 😄!

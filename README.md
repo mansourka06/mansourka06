@@ -1,15 +1,13 @@
-### Hello there 👋
-
 <h1 align="center">Hi 👋, I'm Mansour KA</h1>
+
 <h3 align="center">I'm is a passionate DevOps Engineer with hands on experience on Devops and AWS, problem-solving, learning new skills, implementing them and also share them on GitHub repositories.
 
-With extensive hands on experience in DevOps & Cloud Computing, i am proficient in various tools 
-and technologies related to infrastructure automation, containerization, CI/CD, and cloud platforms.
+>With extensive hands on experience in DevOps & Cloud Computing, i am proficient in various tools 
+and technologies related to infrastructure automation, containerization, CI/CD, and cloud platforms.</h3>
 
-I like to share and contribute on projects around different technologies like: Ansible, Terraform, Docker, CI/CD, Kubernetes, Bash Scripting, Cloud Services ..
+I like to share and contribute on projects around different technologies like: Ansible, Terraform, Docker, CI/CD, Kubernetes, Bash Scripting, Cloud Services.
 
-Enjoy sharing 😄!
-</h3>
+Enjoy sharing 😄! 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devops-cloudcomputing&label=Profile%20views&color=0e75b6&style=flat" alt="devops-cloudcomputing" /> </p>
 

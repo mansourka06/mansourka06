@@ -22,7 +22,7 @@ Let's sharing 😄!
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="whttps://www.linkedin.com/in/mansour-ka-57b2b8152/" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="mansourka" height="20" width="20" /></a>
+<a href="https://www.linkedin.com/in/mansour-ka-57b2b8152/" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="mansourka" height="20" width="20" /></a>
 <a href="https://medium.com/@kamansour06" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/medium/medium-icon.svg" alt="mansourka" height="20" width="20" /></a>
 <!-- <a href="https://mansourka-cv.web.app/" target="blank"><img align="center" src="images/icons/website.png" alt="mansourka" height="20" width="20" /></a> -->
 </p>

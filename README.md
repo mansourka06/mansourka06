@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mansour KA</h1>
-<p align="center"><strong>I'm a passionate DevOps Engineer with hands-on experience in DevOps and AWS, problem-solving, learning new skills, implementing them, and also sharing them on GitHub repositories.
+<p><strong>I'm a passionate DevOps Engineer with hands-on experience in DevOps and AWS, problem-solving, learning new skills, implementing them, and also sharing them on GitHub repositories.
 
 With extensive hands-on experience in DevOps & Cloud Computing, I am proficient in various tools and technologies related to infrastructure automation, containerization, CI/CD, and cloud platforms.
 

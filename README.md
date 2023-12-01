@@ -1,7 +1,11 @@
 <h1 align="center">Hi 👋, I'm Mansour KA</h1>
-<p><strong>I'm a passionate DevOps Engineer with hands-on experience in DevOps and AWS, problem-solving, learning new skills, implementing them, and also sharing them on GitHub repositories.
-
-With extensive hands-on experience in DevOps & Cloud Computing, I am proficient in various tools and technologies related to infrastructure automation, containerization, CI/CD, and cloud platforms.</strong></p>
+<p>I'm passionate about IT and particulary Cloud and DevOps technologies. My work
+experience allows to gain hands-on skills with interesting technologies. In the whole role
+of my DevOps engineering practise, include bulding automated deployments, Setting up
+CI/CD pipelines, automating infrastructures, containerization and managing applications & services based on Linux/windows platforms
+in the cloud and on-promise servers.
+My DevOps expertise is particularly focused on the following technologies and tools:
+<strong>Bash Scripting, Ansible, Terraform, GitLab-CI, Jenkins, Docker, Kubernetes, ELK.</strong></p>
 
 Let's sharing 😄!
 

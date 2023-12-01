@@ -1,10 +1,8 @@
 <h1 align="center">Hi 👋, I'm Mansour KA</h1>
-<p>I'm passionate about IT and particulary Cloud and DevOps technologies. My work
-experience allows to gain hands-on skills with interesting technologies. In the whole role
-of my DevOps engineering practise, include bulding automated deployments, Setting up
-CI/CD pipelines, automating infrastructures, containerization and managing applications & services based on Linux/windows platforms
+<p>I'm passionate about IT, especially Cloud and DevOps technologies. My professional experience has enabled me to acquire practical skills in configuring
+infrastructure automation, creating automated deployments, containerization and management of applications and services based on Linux & Windows platforms 
 in the cloud and on-promise servers.
-My DevOps expertise is particularly focused on the following technologies and tools:
+<br>My DevOps expertise is particularly focused on the following technologies and tools:
 <strong>Bash Scripting, Ansible, Terraform, GitLab-CI, Jenkins, Docker, Kubernetes, ELK.</strong></p>
 
 Let's sharing 😄!

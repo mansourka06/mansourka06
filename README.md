@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mansour KA</h1>
 <br>
-<p><strong>I’m passionate about creating and sharing tech content for IT, especially Cloud and DevOps technologies.</strong>strong></p>
+<p><strong>I’m passionate about creating and sharing tech content for IT, especially Cloud and DevOps technologies.</strong></p>
 <br>
 <p>My professional experience has enabled me to acquire practical skills in configuring
 infrastructure automation, creating automated deployments, containerization and management of applications and services based on Linux & Windows platforms 

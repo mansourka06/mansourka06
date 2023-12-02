@@ -7,10 +7,9 @@ in the cloud and on-promise servers.
 <br><br>
 My DevOps expertise is particularly focused on the following technologies and tools:
 <strong>Bash Scripting, Ansible, Terraform, GitLab-CI, Jenkins, Docker, Kubernetes, ELK.</strong></p>
-<br><br>
+<br>
 Let's sharing 😄!
-
-
+<br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mansourka06&label=Profile%20views&color=0e75b6&style=flat" alt="mansourka"/></p>
 
 - 🌱 I’m currently learning **DevOps, Automation, CD/CD, GitOps, Cloud**

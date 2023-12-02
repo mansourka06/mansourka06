@@ -1,10 +1,14 @@
 <h1 align="center">Hi 👋, I'm Mansour KA</h1>
-<p>I'm passionate about IT, especially Cloud and DevOps technologies. My professional experience has enabled me to acquire practical skills in configuring
+<br>
+<p><strong>I’m passionate about creating and sharing tech content for IT, especially Cloud and DevOps technologies.</strong>strong></p>
+<br><br>
+<p>My professional experience has enabled me to acquire practical skills in configuring
 infrastructure automation, creating automated deployments, containerization and management of applications and services based on Linux & Windows platforms 
 in the cloud and on-promise servers.
-<br>My DevOps expertise is particularly focused on the following technologies and tools:
+<br><br>
+My DevOps expertise is particularly focused on the following technologies and tools:
 <strong>Bash Scripting, Ansible, Terraform, GitLab-CI, Jenkins, Docker, Kubernetes, ELK.</strong></p>
-
+<br><br>
 Let's sharing 😄!
 
 
@@ -16,7 +20,7 @@ Let's sharing 😄!
 
 - 📝 I regularly write articles on https://medium.com/@kamansour06
 
-- 💬 Ask me about **DevOps, Cloud and Automation**
+- 💬 Ask me about **DevOps, Automation and Cloud Computing**
 
 - 📫 How to reach me **kamansour06@gmail.com**
 

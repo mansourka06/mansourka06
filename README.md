@@ -1,11 +1,10 @@
 <h1 align="center">Hi 👋, I'm Mansour KA</h1>
 <br>
 <p><strong>I’m passionate about creating and sharing tech content for IT, especially Cloud and DevOps technologies.</strong></p>
-<br>
 <p>My professional experience has enabled me to acquire practical skills in configuring
 infrastructure automation, creating automated deployments, containerization and management of applications and services based on Linux & Windows platforms 
 in the cloud and on-promise servers.
-<br>
+<br><br>
 My DevOps expertise is particularly focused on the following technologies and tools:
 <strong>Bash Scripting, Ansible, Terraform, GitLab-CI, Jenkins, Docker, Kubernetes, ELK.</strong></p>
 <br><br>

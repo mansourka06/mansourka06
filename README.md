@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mansour KA</h1>
 <br>
-<p><strong>I’m a Cloud & DevOps Engineer and passionate about creating and sharing tech content for IT, especially Cloud and DevOps technologies.</strong></p>
-<p>My professional experience has enabled me to acquire practical skills in configuring
+<p>I’m a <strong>Cloud & DevOps Engineer</strong> and passionate about creating and sharing tech content for IT, especially Cloud and DevOps technologies.</p><p>
+My professional experience has enabled me to acquire practical skills in configuring
 infrastructure automation, creating automated deployments, containerization and management of applications and services based on Linux & Windows platforms 
 in the cloud and on-promise servers.
 <br><br>

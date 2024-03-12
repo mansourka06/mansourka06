@@ -1,24 +1,24 @@
 <h1 align="center">Hi 👋, I'm Mansour KA</h1>
 <br>
-<p><strong>I’m passionate about creating and sharing tech content for IT, especially Cloud and DevOps technologies.</strong></p>
+<p><strong>I’m a Cloud & DevOps Engineer and passionate about creating and sharing tech content for IT, especially Cloud and DevOps technologies.</strong></p>
 <p>My professional experience has enabled me to acquire practical skills in configuring
 infrastructure automation, creating automated deployments, containerization and management of applications and services based on Linux & Windows platforms 
 in the cloud and on-promise servers.
 <br><br>
-My DevOps expertise is particularly focused on the following technologies and tools:
-<strong>Bash Scripting, Ansible, Terraform, GitLab-CI, Jenkins, Docker, Kubernetes, ELK.</strong></p>
+<p>I’m skilled in Cloud Computing <strong>(AWS, Openstack)</strong>, Linux OS <strong>(Debian, RedHat)</strong>, DevOps, CI/CD & Automation <strong>(Jenkins, GitLab-Ci, Github Actions)</strong>, Infrastructure as Code <strong>(Terraform)</strong>, Configuration Management <strong>(Ansible)</strong> and Containerization <strong>(Docker, Kubernetes)</strong> and NetWork Technologies.</p>
+
 <br>
 Let's sharing 😄!
 <br><br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mansourka06&label=Profile%20views&color=0e75b6&style=flat" alt="mansourka"/></p>
 
-- 🌱 I’m currently learning **DevOps, Automation, CD/CD, GitOps, Cloud**
+- 🌱 I’m currently learning **GitOps, DevSecOps, Cyber Security**
 
 - 👨‍💻 All of my projects are available at [Here](https://github.com/mansourka06)
 
 - 📝 I regularly write articles on https://medium.com/@kamansour06
 
-- 💬 Ask me about **DevOps, Automation and Cloud Computing**
+- 💬 Ask me about **Ansible, DevOps, DevSecOps, CI/CD, Automation and Cloud Computing, Containerization**
 
 - 📫 How to reach me **kamansour06@gmail.com**
 

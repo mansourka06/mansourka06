@@ -2,18 +2,11 @@
 <br>
 <p>I am a passionate <strong>DevOps and Cloud Engineer</strong>strong> with a strong focus on automation and innovation. I specialize in designing and implementing scalable solutions using AWS, CI/CD pipelines, and Infrastructure as Code (IaC). My goal is to streamline development workflows, enhance system reliability, and accelerate delivery through modern DevOps practices.</p>
 
-<p>I’m a <strong> DevOps and Cloud Engineer</strong> and passionate about creating and sharing tech content for IT, especially Cloud and DevOps technologies.</p><p>
-My professional experience has enabled me to acquire practical skills in configuring
-infrastructure automation, creating automated deployments, containerization and management of applications and services based on Linux & Windows platforms 
-in the cloud and on-promise servers.
-<br><br>
-<p>I’m skilled in Cloud Computing <strong>(AWS, Openstack)</strong>, Linux OS <strong>(Debian, RedHat)</strong>, DevOps, CI/CD & Automation <strong>(Jenkins, GitLab-Ci, Github Actions)</strong>, Infrastructure as Code <strong>(Terraform)</strong>, Configuration Management <strong>(Ansible)</strong> and Containerization <strong>(Docker, Kubernetes)</strong> and NetWork Technologies.</p>
-
 <!-- Current projects-->
 <h3 align="left">
     <font size="+2" face="Verdana">Current projects</font>
 </h3>
-- I work on Production DevOps project with infrastructure automation, Microservices, containers and creating CI/CD deployments of application on Linux & Windows platforms 
+- I work on Production DevOps project with infrastructure automation(IaC), Microservices, containers and creating CI/CD deployments of application on Linux & Windows platforms 
 in the cloud and on-promise servers.
 
 ### DevOps Stack
@@ -101,8 +94,8 @@ in the cloud and on-promise servers.
 - 🌱 I’m currently learning **GitOps, DevSecOps, Cyber Security**
 - 👨‍💻 All of my projects are available at [Here](https://github.com/mansourka06)
 - 📫 Shoot me an **[Email](mailto:kamansour06@gmail.com)**
-- 👨🏻‍💻 Connect with me on <a href="https://www.linkedin.com/in/mansour-ka-57b2b8152/" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="mansourka" height="20" width="20" /></a> **[linkedin](www.linkedin.com/in/mansour-ka)**
-- 📝 I regularly write articles on <a href="https://medium.com/@kamansour06" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/medium/medium-icon.svg" alt="mansourka" height="20" width="20" /></a> **[Medium](https://medium.com/@kamansour06)**
+- 👨🏻‍💻 Connect with me on <a href="https://www.linkedin.com/in/mansour-ka-57b2b8152/" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="mansourka" height="20" width="20" /> **linkedin</a>
+- 📝 I regularly write articles on <a href="https://medium.com/@kamansour06" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/medium/medium-icon.svg" alt="mansourka" height="20" width="20" /> **Medium**</a>
 
 <br>
 - ⚡ Fun fact **Building bridges between code and production, one deployment at a time.**

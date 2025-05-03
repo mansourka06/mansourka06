@@ -97,7 +97,9 @@ in the cloud and on-promise servers.
 - 📝 I regularly write articles on <a href="https://medium.com/@kamansour06" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/medium/medium-icon.svg" alt="mansourka" height="20" width="20" />**Medium**</a>
 
 <p align="left"> 
+
 - ⚡ Fun fact **Building bridges between code and production, one deployment at a time.**
+<br><br>
 Let's sharing 😄!
 <br><br>
 <img src="https://komarev.com/ghpvc/?username=mansourka06&label=Profile%20views&color=0e75b6&style=flat" alt="mansourka"/>

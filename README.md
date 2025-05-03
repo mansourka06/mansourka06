@@ -93,14 +93,15 @@ in the cloud and on-promise servers.
 - 🌱 I’m currently learning **GitOps, DevSecOps, Cyber Security**
 - 👨‍💻 All of my projects are available at [Here](https://github.com/mansourka06)
 - 📫 Shoot me an **[Email](mailto:kamansour06@gmail.com)**
-- 👨🏻‍💻 Connect with me on <a href="https://www.linkedin.com/in/mansour-ka-57b2b8152/" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="mansourka" height="20" width="20" /> **linkedin</a>
-- 📝 I regularly write articles on <a href="https://medium.com/@kamansour06" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/medium/medium-icon.svg" alt="mansourka" height="20" width="20" /> **Medium**</a>
+- 👨🏻‍💻 Connect with me on <a href="https://www.linkedin.com/in/mansour-ka-57b2b8152/" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="mansourka" height="20" width="20" />linkedin</a>
+- 📝 I regularly write articles on <a href="https://medium.com/@kamansour06" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/medium/medium-icon.svg" alt="mansourka" height="20" width="20" />Medium</a>
+</p>
 
-<br>
+<p align="left"> 
 - ⚡ Fun fact **Building bridges between code and production, one deployment at a time.**
 Let's sharing 😄!
 <br><br>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mansourka06&label=Profile%20views&color=0e75b6&style=flat" alt="mansourka"/></p>
+<img src="https://komarev.com/ghpvc/?username=mansourka06&label=Profile%20views&color=0e75b6&style=flat" alt="mansourka"/>
 
 <!-- <a href="https://mansourka-cv.web.app/" target="blank"><img align="center" src="images/icons/website.png" alt="mansourka" height="20" width="20" /></a> -->
 </p>

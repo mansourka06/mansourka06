@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Mansour KA</h1>
 <br>
-<p>I am a passionate <strong>DevOps and Cloud Engineer</strong>strong> with a strong focus on automation and innovation. I specialize in designing and implementing scalable solutions using AWS, CI/CD pipelines, and Infrastructure as Code (IaC). My goal is to streamline development workflows, enhance system reliability, and accelerate delivery through modern DevOps practices.</p>
+<p>I am a passionate <strong>DevOps and Cloud Engineer</strong> with a strong focus on automation and innovation. I specialize in designing and implementing scalable solutions using AWS, CI/CD pipelines, and Infrastructure as Code (IaC). My goal is to streamline development workflows, enhance system reliability, and accelerate delivery through modern DevOps practices.</p>
 
 <!-- Current projects-->
 <h3 align="left">
     <font size="+2" face="Verdana">Current projects</font>
 </h3>
-- I work on Production DevOps project with infrastructure automation(IaC), Microservices, containers and creating CI/CD deployments of application on Linux & Windows platforms 
+- I work on DevOps Production subjects with infrastructure automation(IaC), Microservices, containers and creating CI/CD deployments of application on Linux & Windows platforms 
 in the cloud and on-promise servers.
 
 ### DevOps Stack

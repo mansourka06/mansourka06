@@ -11,7 +11,6 @@ in the cloud and on-promise servers.
 
 ### DevOps Stack
 <h3 align="left">Programming Languages and Tools:</h3>
-#### Programming Language Stack
 <p align="left"><img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" title="bash"
         title="bash" width="40" height="40" />
     <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"
@@ -67,7 +66,7 @@ in the cloud and on-promise servers.
         width="40" height="40" />
 </p>
 
-#### Project Management Stack
+- #### Project Management Stack
 <p align="left"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" title="git" width="40"
         height="40" />
     <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="github" title="github" width="40"

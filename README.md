@@ -14,10 +14,10 @@ in the cloud and on-promise servers.
 
 <p align="left"><img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" title="bash"
         title="bash" width="40" height="40" />
+     <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"
+        alt="python" title="python" width="40" height="40" />
     <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="aws" title="aws"
         width="40" height="40" />
-    <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"
-        alt="python" title="python" width="40" height="40" />
     <img src="https://www.vectorlogo.zone/logos/ansible/ansible-icon.svg" alt="ansible" title="ansible" width="40"
         height="40" /> <img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" alt="terraform"
         title="terraform" width="40" height="40" />
@@ -35,7 +35,7 @@ in the cloud and on-promise servers.
     <img src="https://raw.githubusercontent.com/github/explore/85cceaeeaf993ca35664dc37ea24f9237fbbfc14/topics/nginx/nginx.png"
         alt="nginx" title="nginx" width="40" height="40" />
     <img src="https://www.vectorlogo.zone/logos/elasticco_logstash/elasticco_logstash-icon.svg" alt="logstash"
-        title="logstash" width="40" height="40" />
+        title="elastic_logstash" width="40" height="40" />
     <img src="https://www.vectorlogo.zone/logos/elasticco_kibana/elasticco_kibana-icon.svg" alt="kibana" title="kibana"
         width="40" height="40" /> 
     <img src="https://www.vectorlogo.zone/logos/prometheusio/prometheusio-icon.svg" alt="promethues" title="promethues"
